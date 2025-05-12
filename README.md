@@ -21,3 +21,4 @@
 
 ```bash
 bash echostrike.sh
+./echostrike.sh
